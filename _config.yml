@@ -28,14 +28,16 @@ twitter_username:
 github_username:  jordypalafox
 
 # Build settings
-theme: just-the-docs
+#theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
 header_pages:
   index.md
-  Enseignement.md
-  Recherche.md
+  enseignement.md
+  article.mg
+  recherche.md
   about.md  
 
 # Exclude from processing.
