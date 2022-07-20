@@ -1,0 +1,110 @@
+{"0": {
+    "doc": "Contact",
+    "title": "Contact",
+    "content": "Emails : palafoxjordy[at]gmail.com ou jordy.palafox[at]univ-pau.fr Linkedin . Quelques images : . ",
+    "url": "http://localhost:4000/about/",
+    "relUrl": "/about/"
+  },"1": {
+    "doc": "Articles",
+    "title": "Publications :",
+    "content": ". | Isochronous centers of polynomial Hamiltonian systems and a conjecture of Jarque and Villadelprat, avec Jacky Cresson. Publie en 2019 dans Journal of Differential Equations https://doi.org/10.1016/j.jde.2018.10.032 . Version Arxiv: https: //arxiv.org/pdf/1605.07775.pdf , 32p. | Lie algebras and geometric complexity of an isochronous center condition, avec Jacky Cresson. Publié en 2019 dans les proceedings Monografias Mat ́ematicas Garcia De Galdenao. Version Arxiv:https://arxiv.org/pdf/1701.04203.pdf, 10p. | . ",
+    "url": "http://localhost:4000/article/#publications-",
+    "relUrl": "/article/#publications-"
+  },"2": {
+    "doc": "Articles",
+    "title": "Pré-publications",
+    "content": ". | Noether’s theorem for Hamiltonian systems on time scales, avec Jacky Cresson, Khaled Hariz Belgacem, Aziz Hamdouni, 24.p, 2021. | Symmetries and linearizability of planar webs (following A.Hénaut), avec Jacky Cresson. | Arborification, invariance and convergence of normalizing series, avec Jacky Cresson et Dominique Manchon. | . ",
+    "url": "http://localhost:4000/article/#pr%C3%A9-publications",
+    "relUrl": "/article/#pré-publications"
+  },"3": {
+    "doc": "Articles",
+    "title": "Articles",
+    "content": " ",
+    "url": "http://localhost:4000/article/",
+    "relUrl": "/article/"
+  },"4": {
+    "doc": "Conférences, exposés",
+    "title": "Exposés dans des conférences",
+    "content": ". | 2021 - 2022 : Séminaires d’équipe Green AI à Pau, exposés sur les méthodes de clustering, application à la recommandation de parcours de progression d’élèves de cycle 2 et consommation d’énergie : . | Mai 2022, Sur l’Online learning pour l’apprentissage adaptatif, présentation des résultats sur la pipeline de clustering de MathIA de Prof En Poche. | Janvier 2022, Sur le clustering et le système de recommandation de MathIA, exploration des différentes méthodes de KMédoids et relevés de consommation avec AIPowerMeter et wattmètres | Octobre 2021, Apprentissage adaptatif et clustering, présentation générale sur la pipeline de Prof En Poche, algorithmes de détection de communauté et réduction de consommation | . | 2018 : . | Séminaire du LASIE, Calcul moulien, exposé : Arborification pour les équations différentielles | Functional Equations in LIMoges (FELIM), XLIM, exposé : Ecalle’s arborification and its applications | Journées Nationales de Calcul Formel , CIRM, exposé : Sur l’arborification et ses applications | . | 2017 : . | Calcul Moulien et algèbres de Hopf combinatoires, GDR Renormalization, Station de Besse, Université Clermont Auvergne, exposé : Sur l’arborification d’Ecalle et la convergence de séries formelles | VIII Rencontre Pau-Zaragossa d’Algèbre et Géométrie, Université de Pau, exposé : About symmetries and linearizability of planar webs | Functional Equations in LIMoges (FELIM), XLIM, exposé : About symmetries and linearizability of planar webs | Journées Nationales de Calcul Formel , CIRM, exposé : Centres isochrones de systèmes Hamiltoniens et corrections de champs de vecteurs | . | 2016 : . | Fourteenth International Conference Zaragoza - Pau on Mathematics and its Applications, Jaca (Espagne), exposé : Isochronous centers of polynomial Hamiltonian systems and corrections of vector fields | Functional Equations in LIMoges (FELIM), XLIM, exposé : Isochronous centers of polynomial Hamiltonian systems and corrections of vector fields | . | . ",
+    "url": "http://localhost:4000/conf/#expos%C3%A9s-dans-des-conf%C3%A9rences",
+    "relUrl": "/conf/#exposés-dans-des-conférences"
+  },"5": {
+    "doc": "Conférences, exposés",
+    "title": "Participations",
+    "content": ". | 2019 : . | Journées du GDR Géométrie Différentielle et Mécanique, La Rochelle | . | 2018 : . | Journées de Géométrie et Mécanique, IRMAR, Rennes | Calcul Moulien et algèbres de Hopf combinatoires, Besse, GDR Renormalization | . | 2017 : . | Workshop Rough Paths in Toulouse, INSA | CARMA (Combinatoire Algébrique, Résurgence, Moules et Applications), CIRM, Marseille | . | 2016 : . | Colloque International des Théories Variationelles 2016 (CITV), La Rochelle | Journées Louis Antoine sur le 16ème problème de Hilbert, Rennes | . | 2015 : . | Geometry, topology and combinatorics of hyperplane arrangements and related problems, Universidad de Zaragoza (Espagne) | . | . ",
+    "url": "http://localhost:4000/conf/#participations",
+    "relUrl": "/conf/#participations"
+  },"6": {
+    "doc": "Conférences, exposés",
+    "title": "Organisation de conférences et séminaires",
+    "content": ". | 2016 - 2017 : séminaires des doctorants du LMAP | 2016 : Calcul moulien , des multizetas aux B-séries à Pau, voir l’affiche ici | . ",
+    "url": "http://localhost:4000/conf/#organisation-de-conf%C3%A9rences-et-s%C3%A9minaires",
+    "relUrl": "/conf/#organisation-de-conférences-et-séminaires"
+  },"7": {
+    "doc": "Conférences, exposés",
+    "title": "Conférences, exposés",
+    "content": " ",
+    "url": "http://localhost:4000/conf/",
+    "relUrl": "/conf/"
+  },"8": {
+    "doc": "Enseignement, encadrement et vularigsation",
+    "title": "Enseignements",
+    "content": ". | 2020 - 2021 : Enseignant vacataire à CY Tech (101,25h) en Classe Préparatoire chargé du module d’Analyse en 1ère année . | 2019 - 2020 : Enseignant contractuel à CY Tech (255h) en Classe Préparatoire (1ère année) : Analyse, Algèbre et en Cycle d’ingénieur : Topologie et Analyse fonctionnelle, Probabilité, Analyse numérique . | 2016 - 2018 : Enseignement dans le cadre du monitorat de thèse, Analyse, Algèbre, Algèbre Bilinéaire, Topologie, Calcul Intégral Statistiques descriptives . | . ",
+    "url": "http://localhost:4000/enseignement/#enseignements",
+    "relUrl": "/enseignement/#enseignements"
+  },"9": {
+    "doc": "Enseignement, encadrement et vularigsation",
+    "title": "Encadrements d’étudiant(e)s",
+    "content": ". | 2021 - 2022 : Supervision d’étudiants de SUPAERO en 4ème année dans le cadre du PIE (Projet Ingénierie et Entreprise) : Introduction à l’apprentissage adaptatif, modélisation de l’oubli et répétition espacée . | 2017 : Encadrement du mémoire de Master 2 de Shana Mezieres, sur les Alègbre de Connes-Kreimer et les méthodes de Runge-Kutta en co-direction avec Jacky Cresson . | . ",
+    "url": "http://localhost:4000/enseignement/#encadrements-d%C3%A9tudiantes",
+    "relUrl": "/enseignement/#encadrements-détudiantes"
+  },"10": {
+    "doc": "Enseignement, encadrement et vularigsation",
+    "title": "Diffusion scientifique et vulgarisation",
+    "content": ". | 2017 : . | Interventions au lycée Gaston-Fébus d’Orthez et en Licences Mathématiques et MIASHS à l’UPPA sur les études, métiers, débouchés et applications des Mathématiques | Participation à l’organisation du Congrès Maths en Jeans à l’UPPA | . | 2016 et 2017 : Animations de vulgarisation en écoles primaires, collèges, lycées et médiathèques . | 2016 : Encadrement d’élèves pour le stage MathC+ à l’UPPA . | 2014 et 2015 : Animation du stand de Mathématiques au Village des sciences à Pau | . ",
+    "url": "http://localhost:4000/enseignement/#diffusion-scientifique-et-vulgarisation",
+    "relUrl": "/enseignement/#diffusion-scientifique-et-vulgarisation"
+  },"11": {
+    "doc": "Enseignement, encadrement et vularigsation",
+    "title": "Enseignement, encadrement et vularigsation",
+    "content": " ",
+    "url": "http://localhost:4000/enseignement/",
+    "relUrl": "/enseignement/"
+  },"12": {
+    "doc": "Présentation",
+    "title": "En bref,",
+    "content": "Actuellement ingénieur de recherche en Intelligence Artificielle au sein de l’équipe Green AI UPPA rattachée au Laboratoire de Mathématiques et leurs Applications de Pau -UMR CNRS 5142 (LMAP). On cherche à développer des pratiques respectueuses de l’environnement en Machine et Deep Learning par des algorithmes plus légers et moins consommateurs. Dans ce cadre, j’explore plusieurs sujets : Clustering, Détection de communautés, Social computing etc… . Je travaille en partenariat avec la start-up Prof En Poche sur le système d’apprentissage adaptatif pour MathIA. Contacts : Emails : palafoxjordy[at]gmail.com ou jordy.palafox[at]univ-pau.fr Linkedin . ",
+    "url": "http://localhost:4000/#en-bref",
+    "relUrl": "/#en-bref"
+  },"13": {
+    "doc": "Présentation",
+    "title": "Bio",
+    "content": ". | 2021 : J’ai réjoint Green AI UPPA . | 2020 - 2021 : Formation Data Scientist avec OpenClassRooms en Partenariat avec Centrale Supélec . | 2019 - 2021 : Enseignant en Mathématiques au sein de CY Tech (ex EISTI) . | 2018 -2019 : Post-doc au sein du Laboratoire des Sciences de l’Ingénieur pour l’Environnement - UMR CNRS 7356 (LASIE) . | 2015 - 2018 : Doctorat en Mathématiques au sein du LMAP à l’UPPA: Calcul Moulien, Arborification, Symétries et Applications sous la direction de Jacky Cresson | 2013 - 2015 : Master Mathématiques, Modélisation et Simulation à l’UPPA . | 1990 : Naissance | . ",
+    "url": "http://localhost:4000/#bio",
+    "relUrl": "/#bio"
+  },"14": {
+    "doc": "Présentation",
+    "title": "Présentation",
+    "content": "(Site en construction !) . ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"15": {
+    "doc": "Recherche",
+    "title": "Post-doc",
+    "content": "Travaux en collaboration avec Aziz Hamdouni, sur les liens entre géométrie différentielle et mécanique. C’est en particulier les symétries de Lie généralisées et les Théorèmes de Noether qui ont été au centre de ce post-doc pour la construction de schéma numérique robuste. ",
+    "url": "http://localhost:4000/recherche/#post-doc",
+    "relUrl": "/recherche/#post-doc"
+  },"16": {
+    "doc": "Recherche",
+    "title": "Thèse",
+    "content": "Intitulée : Calcul Moulien, Arborification, Symétries et Applications Directeur de thèse : Jacky Cresson . Soutenue le 25 juin 2018 devant le jury composé par : . | Jacky Cresson : Directeur de thèse, Professeur des Universités au LMAP | Aziz Hamdouni : Examinateur, Professeur des Universités au LASIE | Alain Hénaut : Président de jury, Professeur Emérite à l’IMB | Dominique Manchon : Examinateur, Charge de Recherche CNRS, HDR au LMBP | Frédéric Menous: Examinateur, Maître de conférence à l’UPS | Jacques-Arthur Weil : Rapporteur, Professeur des Universités au XLIM | . Rapporteurs (non présent pour la soutenance): . | Kurusch Ebrahimi-Fard, Professeur au NTNU | Frédéric Patras, Directeur de recherche CNRS à l’UNS | . Mes travaux de thèse se sont articulés autour de problèmes de systèmes dynamiques continus et discrets reposant sur l’utilisation d’outils algébriques et combinatoires, à savoir le calcul moulien ainsi que l’arborification introduite par Jean Ecalle dans les années 70 et les groupes de symétries pour la géométrie des tissus suivant les travaux d’Alain Hénaut. Cliquez pour un résumé rapide de chaque partie . Partie 1 : Arborification et calcul moulien On propose une étude approfondie de l'arborification et ses applications dans les systèmes dynamiques et l'analyse numérique où des séries formelles non commutatives apparaissent. Par le calcul moulien et en lien avec l'arborification, on étudie des problèmes de convergence. Cette approche permet de founir une démonstration complète du Théorème de Brujno de linéarisation analytique (reposant sur la notion d'invariance d'équations fonctionnelles mouliennes). On s'intéresse aussi à la convergence des séries de Butcher et les schémas de Runge-Kutta où le même type de structure algébrique apparaissent (algèbre de Hopf de Connes-Kreimer).   . Partie 2 : Démonstration de la version faible de la conjecture de Jarque-Villadelprat La seconde partie propose une démonstration de la version faible de la conjecture de Jarque-Villadelprat sur la linéairisation de champs de vecteurs Hamiltonien à perturbations polynomiales en degrés quelconques en utilisant la correction de champs de vecteurs introduite par J. Ecalle et B. Vallet. On s'intéresse aussi aux variétés algèbriques isochrones de champs de vecteurs en lien avec certains algèbres de Lie.   . Partie 3 : Symétries de Lie et Tissus du plan La troisième et dernière partie concerne la classification des équations différentielles de degré n du premier ordre en étudiant les tissus associés. Un tissu (ou d-tissu) est la collection de d feuilletages holomorphes de codimension 1. A. Hénaut propose dans ses travaux une lecture de la linéarisation de tels objets dans leur groupe de symétrie qu'il obtient grâce à des moyens algébriques. Nous proposons une autre approche reposant sur les groupes de symétries d'équations différentielles suivant le formalisme de P.J.Olver. Nous ouvrons la discussion aussi sur les relations entre symétries, polynômes de Darboux, modules de dérivations et arrangements de droites.   .   . ",
+    "url": "http://localhost:4000/recherche/#th%C3%A8se",
+    "relUrl": "/recherche/#thèse"
+  },"17": {
+    "doc": "Recherche",
+    "title": "Recherche",
+    "content": "Pour les articles : voir ici .   . ",
+    "url": "http://localhost:4000/recherche/",
+    "relUrl": "/recherche/"
+  }
+}
