@@ -36,6 +36,7 @@ plugins:
 header_pages:
   index.md
   enseignement.md
+  conf.md
   article.mg
   recherche.md
   about.md  
