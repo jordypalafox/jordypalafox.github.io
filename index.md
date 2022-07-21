@@ -27,7 +27,7 @@ Emails : palafoxjordy[at]gmail.com  ou jordy.palafox[at]univ-pau.fr
 
 ## Bio
 
-- 2021 : J'ai réjoint [Green AI UPPA](https://greenai-uppa.github.io/) 
+- 2021 : J'ai rejoint [Green AI UPPA](https://greenai-uppa.github.io/) 
 
 - 2020 - 2021 : Formation [Data Scientist](https://openclassrooms.com/fr/paths/164-data-scientist) avec OpenClassRooms en Partenariat avec Centrale Supélec
 
