@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enseignement, encadrement et vularigsation
+title: Enseignement, encadrement et vulgarisation
 permalink: /enseignement/
 nav_order: 2
 ---
