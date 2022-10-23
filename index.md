@@ -6,28 +6,27 @@ layout: home
 title: Présentation 
 nav_order: 1
 ---
-(Site en construction !)
+
 
 ## En bref,
 <!-- {: .fs-9 } --> 
 
-Actuellement **ingénieur de recherche** en Intelligence Artificielle au sein de l'équipe [Green AI UPPA](https://greenai-uppa.github.io/) rattachée au Laboratoire de Mathématiques et leurs Applications de Pau -UMR CNRS 5142 ([LMAP](https://lma-umr5142.univ-pau.fr/fr/index.html)).
+Actuellement **enseignant en Mathématiques et en Intelligence Artificielle**  au sein de [CY Tech](https://cytech.cyu.fr/) (ex EISTI)
 
-On cherche à développer des pratiques respectueuses de l'environnement en Machine et Deep Learning par des *algorithmes plus légers et moins consommateurs*.
-Dans ce cadre, j'explore plusieurs sujets : Clustering, Détection de communautés, Social computing etc...
 
-Je travaille en partenariat avec la start-up [Prof En Poche](https://profenpoche.com/) sur le système d'apprentissage adaptatif pour [MathIA](https://profenpoche.com/actualite/mathia-lassistant-vocal-en-mathematiques-pour-les-professeurs-et-les-eleves-du-cycle-2/).
 
 
 **Contacts** :  
-Emails : palafoxjordy[at]gmail.com  ou jordy.palafox[at]univ-pau.fr  
+Emails : palafoxjordy[at]gmail.com  ou jordy.palafox[at]cyu.fr  
 [Linkedin](https://www.linkedin.com/in/jpalafox1242/)
 
 ---
 
 ## Bio
 
-- 2021 : J'ai rejoint [Green AI UPPA](https://greenai-uppa.github.io/) 
+- 2022 - ... : Enseignant en Mathématiques et IA au sein de [CY Tech](https://cytech.cyu.fr/) (ex EISTI)
+
+- 2021 - 2022 : Ingénieur de recherche au sein de [Green AI UPPA](https://greenai-uppa.github.io/) en collaboration avec la start-up [Prof En Poche](https://profenpoche.com/)
 
 - 2020 - 2021 : Formation [Data Scientist](https://openclassrooms.com/fr/paths/164-data-scientist) avec OpenClassRooms en Partenariat avec Centrale Supélec
 
