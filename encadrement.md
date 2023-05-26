@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Encadrement
+title: 
 permalink: /encadrement
 ---
 
