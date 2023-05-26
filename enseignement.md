@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enseignement
+title:  
 permalink: /enseignement
 ---
 
