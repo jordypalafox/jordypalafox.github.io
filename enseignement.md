@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Encadrement
-permalink: /encadrement
+title: Enseignement
+permalink: /enseignement
 ---
 
 ## Enseignements (2022 - ...)
