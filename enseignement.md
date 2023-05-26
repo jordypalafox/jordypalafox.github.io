@@ -5,7 +5,7 @@ aside: true
 permalink: /enseignement
 ---
 
-## Enseignements (2022 - ...)
+### Enseignements (2022 - ...)
 - **Cycle Ingénieur 2ème année** : 
   - *Statistiques inférentielles* (Génie Info)  
     ```
@@ -46,7 +46,7 @@ permalink: /enseignement
     Développements limités, Calcul intégral, Equations différentielles
     ```
 
-## Vacations (2019-2020)
+### Vacations antérieures (2019-2020)
 - 2020 - 2021 : Enseignant vacataire à CY Tech (101,25h) en Classe Préparatoire chargé du module d'Analyse en 1ère année (PréIng1)
 
 - 2019 - 2020 : Enseignant contractuel à CY Tech (255h)  
@@ -54,6 +54,6 @@ permalink: /enseignement
   - Cycle d'ingénieur : Topologie et Analyse fonctionnelle, Probabilité, Analyse numérique
 
 
-## Monitorat de thèse (2016-2018)
+### Monitorat de thèse (2016-2018)
 
 - 2016 - 2018 : Enseignement dans le cadre du monitorat de thèse, Analyse, Algèbre, Algèbre Bilinéaire, Topologie, Calcul Intégral Statistiques descriptives
