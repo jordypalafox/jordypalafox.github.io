@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: page
 title:  
 permalink: /diffusion
 nav_order: 2
