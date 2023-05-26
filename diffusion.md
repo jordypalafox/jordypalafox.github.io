@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enseignement, encadrement et vulgarisation
+title: Diffusion
 permalink: /diffusion
 nav_order: 2
 ---
