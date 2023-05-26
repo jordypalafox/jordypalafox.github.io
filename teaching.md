@@ -5,12 +5,12 @@ permalink: /teaching/
 nav_order: 2
 ---
 
-## [Enseignements](/enseignement)
+## [Enseignements](../enseignement)
 
 
-## [Encadrements d'étudiant(e)s](/encadrement)
+## [Encadrements d'étudiant(e)s](../encadrement)
 
 
 
-## [Diffusion scientifique et vulgarisation](/diffusion)
+## [Diffusion scientifique et vulgarisation](../diffusion)
 
