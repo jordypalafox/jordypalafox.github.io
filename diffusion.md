@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Diffusion
+title:  
 permalink: /diffusion
 nav_order: 2
 ---
