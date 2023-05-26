@@ -4,6 +4,8 @@ title:
 permalink: /encadrement
 ---
 
+## Suivi d'étudiants
+
 - 2022 - ... : 
 **Suivi de stages** et **contrats pro** au sein de CY Tech
 
