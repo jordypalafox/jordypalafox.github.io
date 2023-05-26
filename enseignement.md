@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Enseignement, encadrement et vulgarisation
+title: Encadrement
 permalink: /encadrement
 ---
 
