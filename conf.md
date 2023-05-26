@@ -7,10 +7,15 @@ nav_order: 6
 
 ## Exposés dans des conférences
 
-- **2021 - 2022** : Séminaires d'équipe Green AI à Pau, exposés sur les méthodes de clustering, application à la recommandation de parcours de progression d'élèves de cycle 2 et consommation d'énergie :    
-    *  Mai 2022, *Sur l'Online learning pour l'apprentissage adaptatif*, présentation des résultats sur la pipeline de clustering de MathIA de Prof En Poche.
-    * Janvier 2022, *Sur le clustering et le système de recommandation de MathIA*, exploration des différentes méthodes de KMédoids et relevés de consommation avec [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) et wattmètres
-    * Octobre 2021, *Apprentissage adaptatif et clustering*, présentation générale sur la pipeline de Prof En Poche, algorithmes de détection de communauté et réduction de consommation
+- **2022** : 
+    * Aout 2022, *Clusters de calcul adaptatifs et Algorithmes MCMC*, [Journées MAS](https://mas2022.sciencesconf.org/) (Modélisation Aléatoire et Statistique)
+    *   Mai 2022, *Sur l'Online learning pour l'apprentissage adaptatif*, présentation d'une approche de clustering online de MathIA de Prof En Poche, Séminaire Green AI 
+    
+    * Janvier 2022, *Sur le clustering et le système de recommandation de MathIA*, exploration des différentes méthodes de KMédoids et relevés de consommation avec [AIPowerMeter](https://github.com/GreenAI-Uppa/AIPowerMeter) et wattmètres, Séminaire Green AI 
+
+- **2021** :  
+    * Octobre 2021, *Apprentissage adaptatif et clustering*, présentation générale sur la pipeline de Prof En Poche, algorithmes de détection de communauté et réduction de consommation,
+    Séminaire Green AI 
 
 - **2018** : 
     * Séminaire du LASIE, Calcul moulien, exposé : *Arborification pour les équations différentielles*

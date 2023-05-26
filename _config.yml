@@ -35,11 +35,11 @@ plugins:
 
 header_pages:
   index.md
-  enseignement.md
+  teaching.md
   conf.md
   article.mg
   recherche.md
-  about.md  
+    
 
 # Exclude from processing.
 # The following items will not be processed, by default.
