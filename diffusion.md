@@ -5,9 +5,9 @@ permalink: /diffusion
 nav_order: 2
 ---
 
-### Diffusion scientifique et vulgarisation 
+## Diffusion scientifique et vulgarisation 
 
-Membre du [Mathematicum](https://mathematicum.univ-pau.fr/site/), j'ai réalisé plusieurs activités de diffusion scientifique jusqu'en 2018(jusqu'à ce que le covid arrive). 
+Membre du [Mathematicum](https://mathematicum.univ-pau.fr/site/), j'ai réalisé plusieurs activités de diffusion scientifique jusqu'en 2018 (jusqu'à ce que le covid arrive). 
 
 
 - 2023 : Présentation de l'IA, ses applications et enjeux au [lycée Saint-John Perse](https://www.lycee-saint-john-perse.fr/) à Pau, terminales et BTS
