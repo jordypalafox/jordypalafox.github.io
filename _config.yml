@@ -33,14 +33,21 @@ remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
-header_pages:
-  index.md
-  teaching.md
-  conf.md
-  article.mg
-  recherche.md
-    
 
+    
+# 9. Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Enseignement 
+  url: /teaching
+- title: Recherche
+  url: /recherche
+- title: Conférence
+  url: /conf
+- title: Articles
+  url: /article
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
