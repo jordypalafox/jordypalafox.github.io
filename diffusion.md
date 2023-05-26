@@ -5,7 +5,7 @@ permalink: /diffusion
 nav_order: 2
 ---
 
-## Diffusion scientifique et vulgarisation 
+### Diffusion scientifique et vulgarisation 
 
 Membre du [Mathematicum](https://mathematicum.univ-pau.fr/site/), j'ai réalisé plusieurs activités de diffusion scientifique jusqu'en 2018(jusqu'à ce que le covid arrive). 
 
