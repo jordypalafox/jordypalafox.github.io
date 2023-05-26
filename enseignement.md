@@ -1,7 +1,6 @@
 ---
 layout: blog
 title:
-aside: true 
 permalink: /enseignement
 ---
 
