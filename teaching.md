@@ -5,7 +5,6 @@ permalink: /teaching/
 nav_order: 2
 ---
 
-# Navigation Structure
 {: .no_toc }
 
 ## Table of contents
