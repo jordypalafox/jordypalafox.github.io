@@ -110,7 +110,7 @@ Membre du [Mathematicum](https://mathematicum.univ-pau.fr/site/), j'ai réalisé
     Résumé : Etude des structures algébriques associées aux algorithmes de Runge-Kutta introduite suivant les travaux de J. Butcher et lien avec l'arborification de J. Ecalle
     ```
     
-# Autres :
+# Autres 
 - 2022 : Membre du Jury Environnement pour la [Data Battle Nouvelle Aquitaine](https://iapau.org/2022/04/01/bilan-data-battle-nouvelle-aquitaine/) 
 
 
