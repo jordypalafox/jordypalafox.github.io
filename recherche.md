@@ -38,6 +38,8 @@ Rapporteurs (non présent pour la soutenance):
 
 Voir la soutenance [ici](docu/Soutenance_thèse.pdf)
 
+Pour mon manuscrit c'est [là](docu/Manuscrit thèse.pdf)
+
 Mes travaux de thèse se sont articulés autour de problèmes de systèmes dynamiques continus et discrets reposant sur l'utilisation d'outils algébriques et combinatoires, à savoir le **calcul moulien** ainsi que l'**arborification** introduite par Jean Ecalle dans les années 70 et les **groupes de symétries** pour la géométrie des tissus suivant les travaux d'Alain Hénaut.
 
 Cliquez pour un résumé rapide de chaque partie
