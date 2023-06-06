@@ -16,7 +16,7 @@ Actuellement **enseignant en Mathématiques et en Intelligence Artificielle**  a
 Co-responsable de l'option Cybersécurité en 3ème de cycle d'ingénieur qui ouvrira à la rentrée 2023-2024 sur le campus palois de CY Tech.
 
 **CV**  
-[Version longue](docu/CV_long.pdf) [Version courte](docu/CV_court.pdf) [English version](docu/CV_anglais.pdf)  
+[Version longue](docu/CV_long.pdf) | [Version courte](docu/CV_court.pdf) | [English version](docu/CV_anglais.pdf)  
 
 **Contacts** :  
 Emails : palafoxjordy[at]gmail.com  ou jordy.palafox[at]cyu.fr  
