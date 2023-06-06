@@ -25,6 +25,7 @@ nav_order: 6
     * Journées Nationales de Calcul Formel , CIRM, exposé : *Sur l'arborification et ses applications*
 
 - **2017** :
+    * Journées doctorales de l'UPPA : session poster *A dynamical approach to geometry* [(voir le poster)](docu/poster_thèse.pdf)
     * Calcul Moulien et algèbres de Hopf combinatoires, GDR Renormalization, Station de Besse, Université Clermont Auvergne, exposé : *Sur l'arborification d'Ecalle et la convergence de séries formelles*
     * VIII Rencontre Pau-Zaragossa d'Algèbre et Géométrie, Université de Pau, exposé : *About symmetries and linearizability of planar webs*
     * Functional Equations in LIMoges (FELIM), XLIM, exposé : *About symmetries and linearizability of planar webs*
