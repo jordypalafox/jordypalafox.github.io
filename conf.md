@@ -17,7 +17,7 @@ nav_order: 6
     * Octobre 2021, *Apprentissage adaptatif et clustering*, présentation générale sur la pipeline de Prof En Poche, algorithmes de détection de communauté et réduction de consommation,
     Séminaire Green AI 
 - **2019**
-    * Juillet 2019, Poster pour les journées du Lasie, *Le théorème de Noether du continu au discret*   [voir le poster](docu/poster_lasie.pdf)
+    * Juillet 2019, Poster pour les journées du Lasie, *Le théorème de Noether du continu au discret*   [(voir le poster)](docu/poster_lasie.pdf)
 
 - **2018** : 
     * Séminaire du LASIE, Calcul moulien, exposé : *Arborification pour les équations différentielles*
