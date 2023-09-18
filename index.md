@@ -13,7 +13,7 @@ nav_order: 1
 
 Actuellement **enseignant en Mathématiques et en Intelligence Artificielle**  au sein de [CY Tech](https://cytech.cyu.fr/) (ex EISTI)
 
-Co-responsable de l'option Cybersécurité en 3ème de cycle d'ingénieur qui ouvrira à la rentrée 2023-2024 sur le campus palois de CY Tech.
+Co-responsable de l'option Cybersécurité en 3ème de cycle d'ingénieur CY Tech Pau.
 
 **CV**  
 [Version longue](docu/CV_long.pdf) | [Version courte](docu/CV_court.pdf) | [English version](docu/CV_anglais.pdf)  
