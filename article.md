@@ -19,7 +19,7 @@ Galdenao. Version Arxiv : https://arxiv.org/pdf/1701.04203.pdf, 10p.
 
 - **Noether’s theorem for Hamiltonian systems on time scales**, avec Jacky Cresson, Khaled Hariz Belgacem, Aziz Hamdouni, 24.p, 2021.
 
-- **Symmetries and linearizability of planar webs (following A.Hénaut)**, avec Jacky Cresson. Version Arxiv : https://arxiv.org/pdf/2310.04093.pdf
+- **Application des groupes de Lie à la recherche des symétries des tissus implicites du plan**, avec Jacky Cresson. Version Arxiv : https://arxiv.org/pdf/2310.04093.pdf
   Version HAL : https://hal.science/hal-04228995v1/document
   
 - **Arborification, invariance and convergence of normalizing series**, avec Jacky
