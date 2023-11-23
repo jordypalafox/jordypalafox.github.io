@@ -15,6 +15,11 @@ Pour les articles : voir [ici](article.md)
 
 &nbsp;
 
+## Plus récemment
+Depuis 2023 je m'intéresse plus particulièrement aux méthodes algébriques et géométriques en Machine Learning, notamment, la signature d'une trajectoire rugueuse en tant que prétraitement de données temporelles, méthode introduite récemment par T.Lyons. Cet objet fait l'objet d'une conférence que je co-organise en décembre 2023. Pour [plus de détails](https://sites.google.com/view/sign-ml-pau-2023/) 
+
+En 2021-2022, j'ai occupé un poste d'ingénieur de recherche dans l'équipe Green AI UPPA rattachée au LMAP de l'Université de Pau. 
+
 ## Post-doc
 
 Travaux en collaboration avec Aziz Hamdouni, sur les liens entre géométrie différentielle et mécanique. C'est en particulier les symétries de Lie généralisées et les Théorèmes de Noether qui ont été au centre de ce post-doc pour la construction de schéma numérique robuste.
