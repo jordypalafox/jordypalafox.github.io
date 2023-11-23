@@ -57,5 +57,6 @@ nav_order: 6
 
 ## Organisation de conférences et séminaires
 
+- **2023** : Signature, applications et Machine Learning à Pau, voir [ici](https://sites.google.com/view/sign-ml-pau-2023/)
 - **2016 - 2017** : séminaires des doctorants du LMAP
 - **2016** : Calcul moulien , des multizetas aux B-séries à Pau, voir l'affiche [ici](/docu/rencontre-Pau-2016.pdf)
