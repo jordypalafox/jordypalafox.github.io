@@ -21,5 +21,6 @@ Galdenao. Version [Arxiv](https://arxiv.org/pdf/1701.04203.pdf), 10p.
 
 - **Application des groupes de Lie à la recherche des symétries des tissus implicites du plan**, avec Jacky Cresson. Versions [Arxiv](https://arxiv.org/pdf/2310.04093.pdf) [HAL](https://hal.science/hal-04228995v1/document)
   
-- **Arborification, invariance and convergence of normalizing series**, avec Jacky
-Cresson et Dominique Manchon.
+- **Arborification, invariance and convergence of normalizing series**, avec Jacky Cresson et Dominique Manchon.
+
+- **Asynchronous layerwise deep learning with MCMC on low-power devices** Version [HAL](https://hal.science/hal-04270262v1/document), avec M.François, P.Gay, S.Lebeaud, S.Loustau, F.K.Sow, N.Tirel.
