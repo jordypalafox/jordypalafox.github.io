@@ -15,8 +15,7 @@ nav_order: 5
 
 - **Isochronous centers of polynomial Hamiltonian systems and a conjecture of
 Jarque and Villadelprat**, avec Jacky Cresson. Publie en 2019 dans Journal of Differential
-Equations https://doi.org/10.1016/j.jde.2018.10.032 . Version [Arxiv](https:
-//arxiv.org/pdf/1605.07775.pdf) , 32p.
+Equations https://doi.org/10.1016/j.jde.2018.10.032 . Version [Arxiv]([https://arxiv.org/pdf/1605.07775.pdf](https://arxiv.org/pdf/1605.07775)) , 32p.
 
 - **Lie algebras and geometric complexity of an isochronous center condition**,
 avec Jacky Cresson. Publié en 2019 dans les proceedings Monografias Mat ́ematicas Garcia De
