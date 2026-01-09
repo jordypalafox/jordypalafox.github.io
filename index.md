@@ -14,6 +14,7 @@ nav_order: 1
 Actuellement **enseignant en Mathématiques et en Intelligence Artificielle**  au sein de [CY Tech](https://cytech.cyu.fr/) (ex EISTI)
 
 Co-responsable de l'option Cybersécurité en 3ème de cycle d'ingénieur CY Tech Pau.
+Chef de projet du PIA4 Verdinum à CY Tech.
 
 **CV**  
 [Version longue](docu/CV_long.pdf) | [Version courte](docu/CV_court.pdf) | [English version](docu/CV_anglais.pdf)  
