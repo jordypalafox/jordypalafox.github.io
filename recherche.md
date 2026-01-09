@@ -16,7 +16,9 @@ Pour les articles : voir [ici](article.md)
 &nbsp;
 
 ## Plus récemment
-Depuis 2023 je m'intéresse plus particulièrement aux méthodes algébriques et géométriques en Machine Learning, notamment, la signature d'une trajectoire rugueuse en tant que prétraitement de données temporelles, méthode introduite récemment par T.Lyons. Cet objet fait l'objet d'une conférence que je co-organise en décembre 2023. Pour [plus de détails](https://sites.google.com/view/sign-ml-pau-2023/) 
+Mes travaux sont centrés sur l'utilisation de méthodes algébro-combinatoires (calcul moulien) en système dynamique (notamment en théorie des formes normales et linéarisation), équations aux dérivées partielles, équations stochastiques et analyse numérique.
+
+Depuis 2023 aussi, je m'intéresse plus particulièrement aux méthodes algébriques et géométriques en Machine Learning, notamment, la signature d'une trajectoire rugueuse en tant que prétraitement de données temporelles, méthode introduite récemment par T.Lyons. Cet objet fait l'objet d'une conférence que je co-organise en décembre 2023. Pour [plus de détails](https://sites.google.com/view/sign-ml-pau-2023/) 
 
 En 2021-2022, j'ai occupé un poste d'ingénieur de recherche dans l'équipe Green AI UPPA rattachée au LMAP de l'Université de Pau. Les thématiques étaient autour de la sobriété énergétique en deep learning au niveau hardware, architecture de réseaux et optimisation de réseaux.
 
